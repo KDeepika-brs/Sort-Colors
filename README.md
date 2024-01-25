@@ -6,6 +6,6 @@
 
 ##### The function iterates over the array, starting at the low pointer. For each element in the array, the function swaps the element with the element at the low pointer if the element is 0, simply increments the mid pointer if the element is 1, or swaps the element with the element at the high pointer if the element is 2. The function continues to iterate over the array until the low pointer reaches the high pointer. At the end, the array will be sorted in place.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Sort-Colors/).
 
 
